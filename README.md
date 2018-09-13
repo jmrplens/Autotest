@@ -6,3 +6,7 @@ Realiza exámenes tipo test de forma sencilla introduciendo las preguntas y las 
 Muy útil para estudiantes que quieran practicar exámenes o para profesores que quieran ofrecer otro método para que los alumnos se autoevalúen.
 
 El código se puede ver y editar desde la pestaña de desarrollador en Excel.
+
+<img src="https://jmrplens.com/wp-content/uploads/2018/07/Autotest-Inicio-Mac.png" width="80%"></img>
+
+<img src="https://jmrplens.com/wp-content/uploads/2018/07/Autotest-Test.png" width="80%"></img>
